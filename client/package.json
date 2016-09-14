@@ -27,7 +27,9 @@
     "react": "^0.14.8 || ^15.0.0",
     "react-dom": "^0.14.8 || ^15.0.0",
     "react-on-rails": "6.1.1",
-    "webpack": "^1.12.14"
+    "webpack": "^1.12.14",
+    "mobx-react": "^3.5.6",
+    "mobx": "^2.5.1"
   },
   "devDependencies": {
   }
